@@ -4,4 +4,5 @@ type Args = {
 
 export function helloWorld({ firstName }: Args) {
   console.log(`Hello ${firstName}`);
+  
 }
